@@ -1,0 +1,17 @@
+Atlikite darbus:
+1. Visas komandas paryškinkite apgaubiant **<komanda>** 
+2. Pagrindinių komandų sekciją aprašikite kaip sąrašą (list)
+
+kiekvieną darbą atlikite kaip atskirą 'commit'ą ir įvardinkite atliktus darbus tokiu formatu:
+"feat: atlikto darbo apibūdinimas"
+
+Darbo užfiksavimo eiga:
+.. atliekate darbus
+Paruošiame pakitusius failus patvirtinimui:
+    git add .
+
+ užfiksuojame pakitimus:
+    git commit -m '<žinutė>'
+ 
+ Paviešiname pakitimą:
+    git push
