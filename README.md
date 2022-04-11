@@ -14,11 +14,11 @@ git clone https://github.com/Rkunski/test.git
 cd test
 ## Pagrindinės komandos
  * **git add** - failų paruošimas patvirtinimui
-    * **git add '<failo-pavadinimas>'**  -> prideda failą nurodytų pavadinimu
+    * **git add 'failo-pavadinimas'**  -> prideda failą nurodytų pavadinimu
     * **git add** . -> prideda visus pakitusius failus
     
  * **git diff** -> skirtumas tarp dviejų failų arba tarp to paties failo versijos
-    * **git diff '<failo-pavadinimas>'** - failo nurotytu pavadinimu pakitimai nuo paskutinio commit'o
+    * **git diff 'failo-pavadinimas'** - failo nurotytu pavadinimu pakitimai nuo paskutinio commit'o
     * **git status** -> parodo pakitusių failų būseną
 
  * **git branch** -> komanda, kuri naudojama operacijomis su šakomis
