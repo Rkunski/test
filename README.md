@@ -19,7 +19,8 @@ cd test
     
  * **git diff** -> skirtumas tarp dviejų failų arba tarp to paties failo versijos
     * **git diff &lt;failo-pavadinimas&gt;** - failo nurotytu pavadinimu pakitimai nuo paskutinio commit'o
-    * **git status** -> parodo pakitusių failų būseną
+    
+* **git status** -> parodo pakitusių failų būseną
 
  * **git branch** -> komanda, kuri naudojama operacijomis su šakomis
     * **git branch -a** -> parodo visas parsiustas šakas ir šiuo metu aktyvią šaką
